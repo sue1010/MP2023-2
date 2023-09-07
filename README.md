@@ -2,6 +2,14 @@
 
 파일입니다.\
 
+##가상환경 생성
+conda create -n mp
+
+## 가상환경 활성화
+conda activate mp
+
+git clone "레포지터리 링크"
+
 git add .
 git commit -m .
 
